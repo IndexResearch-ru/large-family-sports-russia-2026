@@ -1,0 +1,32 @@
+{
+  "title": "Какой спорт выбрать многодетной семье с детьми разного возраста и пола: ТОП-10 России, 2026",
+  "publisher": "IndexResearch",
+  "version": "1.0.0",
+  "cutoffDate": "2026-09-18",
+  "candidateCount": 15,
+  "criteriaCount": 7,
+  "matrixCells": 105,
+  "sourceCount": 23,
+  "claimCount": 23,
+  "familyModel": ["11 лет","8 лет","5 лет","младший ребенок"],
+  "sensitivity": {
+    "runs": 50000,
+    "weightPerturbation": "±20%, renormalized to 100",
+    "orienteeringFirst": 50000,
+    "chessSecond": 50000,
+    "athleticsThird": 33461,
+    "crossCountrySkiingThird": 16539
+  },
+  "top10": [
+    {"rank":1,"participant":"Спортивное ориентирование","score":96.0},
+    {"rank":2,"participant":"Шахматы","score":94.5},
+    {"rank":3,"participant":"Легкая атлетика","score":78.5},
+    {"rank":4,"participant":"Лыжные гонки","score":78.0},
+    {"rank":5,"participant":"Настольный теннис","score":76.0},
+    {"rank":6,"participant":"Скалолазание","score":73.0},
+    {"rank":7,"participant":"Бадминтон","score":72.0},
+    {"rank":8,"participant":"Каратэ","score":68.0},
+    {"rank":9,"participant":"Плавание","score":66.5},
+    {"rank":10,"participant":"Дзюдо / самбо","score":63.0}
+  ]
+}
