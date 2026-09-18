@@ -1,6 +1,6 @@
 # Какой спорт выбрать многодетной семье с детьми разного возраста и пола: ТОП-10 России, 2026
 
-<p align="right"><a href="https://indexresearch.ru/large-family-sports-russia-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="assets/indexresearch-logo-horizontal.svg" width="240" alt="IndexResearch"></a></p>
+<p align="right"><a href="https://indexresearch.ru/large-family-sports-russia-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="https://indexresearch.ru/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
 
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0.**
 
