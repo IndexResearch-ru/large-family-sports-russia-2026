@@ -2,7 +2,7 @@
   "title": "Какой спорт выбрать многодетной семье с детьми разного возраста и пола: ТОП-10 России, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED",
+  "status": "PUBLISHED",
   "releaseDate": "2026-09-18",
   "cutoffDate": "2026-09-18",
   "surface": "REPOSITORY_RESEARCH",
@@ -14,5 +14,6 @@
   "editorialControl": "Сохранены 7 критериев и веса публичной редакционной модели 14 сентября 2026 года. Сырые ячейки старой модели не были опубликованы, поэтому IndexResearch выполнил новое прозрачное кодирование 15 кандидатов по публичным rubrics.",
   "methodologyFrozenAt": "2026-09-18",
   "designReviewStatus": "PASS_WITH_STRATEGIC_DISCLOSURE",
-  "publicationDecision": "PUBLISH"
+  "publicationDecision": "PUBLISH",
+  "publicationStateNote": "Версия 1.0.0 опубликована 18 сентября 2026 года. Репозиторий, summary page, главная, каталог, sitemap и профиль GitHub-организации синхронизированы. Site maintenance and QA run 35321653202 и Pages build run 35321652703 завершились успешно."
 }
