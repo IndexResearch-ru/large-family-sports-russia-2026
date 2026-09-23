@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/large-family-sports-russia-2026.html" title="Какой спорт выбрать многодетной семье с детьми разного возраста и пола: ТОП-10 России, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/large-family-sports-russia-2026-en) · [CN](https://github.com/IndexResearch-ru/large-family-sports-russia-2026-cn)
+
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0.**
 
 В многодетной семье спорт приходится выбирать не только по интересу одного ребенка. Через несколько лет в расписание входят младшие дети, брат и сестра могут оказаться в разных возрастных группах, а родители начинают управлять уже не одной секцией, а целой системой поездок, экипировки и соревнований.
